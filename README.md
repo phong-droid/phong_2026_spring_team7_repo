@@ -27,7 +27,6 @@ Katie O'Connell
 
 ### 294 Students
 
-294 Student(s) here
 Phong Nguyen
 
 ## Prerequisites
